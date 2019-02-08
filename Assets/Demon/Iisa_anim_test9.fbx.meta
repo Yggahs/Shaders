@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: f30f5b299b519f441ab77b41fe0b5bd7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Birth 01
+    100002: default04
+    100004: Display 01
+    100006: Display 02
+    100008: Event 01
+    100010: Event 02
+    100012: finger06
+    100014: finger07
+    100016: finger08
+    100018: finger09
+    100020: finger1
+    100022: finger1_03
+    100024: finger1_04
+    100026: finger1_1
+    100028: finger1_2
+    100030: finger2
+    100032: finger2_03
+    100034: finger2_04
+    100036: finger2_1
+    100038: finger2_2
+    100040: finger3
+    100042: finger3_03
+    100044: finger3_04
+    100046: finger3_1
+    100048: finger3_2
+    100050: finger4
+    100052: finger4_03
+    100054: finger4_04
+    100056: finger4_1
+    100058: finger4_2
+    100060: hair1
+    100062: hair2
+    100064: hair3
+    100066: head
+    100068: //RootNode
+    100070: jaw_down
+    100072: jaw_down_HELPER
+    100074: jaw_up
+    100076: jaw_up_HELPER
+    100078: L_BICEP
+    100080: L_Foot1
+    100082: L_Foot2
+    100084: L_hand01
+    100086: L_LEG1
+    100088: L_LEG2
+    100090: L_LEG_root
+    100092: L_zapyastie01
+    100094: neck
+    100096: Object01
+    100098: Particle View 01
+    100100: Position Icon 01
+    100102: R_BICEP
+    100104: R_Foot03
+    100106: R_Foot04
+    100108: R_hand
+    100110: R_LEG03
+    100112: R_LEG04
+    100114: R_LEG_root01
+    100116: R_should
+    100118: R_should01
+    100120: R_zapyastie
+    100122: Render 01
+    100124: ROOT
+    100126: Rotation 01
+    100128: Scale 01
+    100130: Shape 01
+    100132: Speed 01
+    100134: Spine0
+    100136: Spine1
+    100138: spine2
+    100140: Tail1
+    100142: Tail2
+    100144: Tail3
+    100146: Tail4
+    100148: Tail5
+    100150: Tail6
+    400000: Birth 01
+    400002: default04
+    400004: Display 01
+    400006: Display 02
+    400008: Event 01
+    400010: Event 02
+    400012: finger06
+    400014: finger07
+    400016: finger08
+    400018: finger09
+    400020: finger1
+    400022: finger1_03
+    400024: finger1_04
+    400026: finger1_1
+    400028: finger1_2
+    400030: finger2
+    400032: finger2_03
+    400034: finger2_04
+    400036: finger2_1
+    400038: finger2_2
+    400040: finger3
+    400042: finger3_03
+    400044: finger3_04
+    400046: finger3_1
+    400048: finger3_2
+    400050: finger4
+    400052: finger4_03
+    400054: finger4_04
+    400056: finger4_1
+    400058: finger4_2
+    400060: hair1
+    400062: hair2
+    400064: hair3
+    400066: head
+    400068: //RootNode
+    400070: jaw_down
+    400072: jaw_down_HELPER
+    400074: jaw_up
+    400076: jaw_up_HELPER
+    400078: L_BICEP
+    400080: L_Foot1
+    400082: L_Foot2
+    400084: L_hand01
+    400086: L_LEG1
+    400088: L_LEG2
+    400090: L_LEG_root
+    400092: L_zapyastie01
+    400094: neck
+    400096: Object01
+    400098: Particle View 01
+    400100: Position Icon 01
+    400102: R_BICEP
+    400104: R_Foot03
+    400106: R_Foot04
+    400108: R_hand
+    400110: R_LEG03
+    400112: R_LEG04
+    400114: R_LEG_root01
+    400116: R_should
+    400118: R_should01
+    400120: R_zapyastie
+    400122: Render 01
+    400124: ROOT
+    400126: Rotation 01
+    400128: Scale 01
+    400130: Shape 01
+    400132: Speed 01
+    400134: Spine0
+    400136: Spine1
+    400138: spine2
+    400140: Tail1
+    400142: Tail2
+    400144: Tail3
+    400146: Tail4
+    400148: Tail5
+    400150: Tail6
+    2100000: 02 - Default
+    4300000: default04
+    4300002: Object01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: default04
+    13700002: Object01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: f7dd7699b2f235a4297f395d33fc8965, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
